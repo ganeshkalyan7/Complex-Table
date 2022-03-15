@@ -1,0 +1,18 @@
+table,tr,td{
+    border: 3px solid black;
+    margin: 50px;
+    padding: 70px;
+    padding-left: 90px;
+    padding-right: 100px;
+    background-color:darkorange;
+    
+}
+
+h1{
+    text-align: center;
+    color:blueviolet
+}
+tr,td:hover{
+    background-color: black;
+
+}
